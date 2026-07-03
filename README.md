@@ -118,14 +118,17 @@ Through this project, I gained practical experience in:
 
 ## 📸 Screenshots
 
-You can add screenshots of:
+### 🏠 Home Page
 
-- 🏠 Home Page
-- 👩 About Page
-- 💼 Projects Page
-- 📄 Project Details Page
+![Home Page](screenshots/home.png)
 
----
+### 👤 About Page
+
+![About Page](screenshots/about.png)
+
+### 📄 Project Detail Page
+
+![Project Detail Page](screenshots/project-detail.png)
 
 ## 👩‍💻 Author
 
