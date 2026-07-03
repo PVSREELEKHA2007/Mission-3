@@ -120,15 +120,15 @@ Through this project, I gained practical experience in:
 
 ### 🏠 Home Page
 
-![Home Page](./Screenshots/home page.png)
+![Home Page](./Screenshots/home%20page.png)
 
 ### 👤 About Page
 
-![About Page](./Screenshots/About page.png)
+![About Page](./Screenshots/About%20page.png)
 
 ### 📄 Project Detail Page
 
-![Project Detail Page](./Screenshots/project details.png)
+![Project Detail Page](./Screenshots/project%20details.png)
 
 ### ❤️ Like Button
 
