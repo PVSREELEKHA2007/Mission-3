@@ -120,16 +120,19 @@ Through this project, I gained practical experience in:
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](./Screenshots/home page.png)
 
 ### 👤 About Page
 
-![About Page](screenshots/about.png)
+![About Page](./Screenshots/About page.png)
 
 ### 📄 Project Detail Page
 
-![Project Detail Page](screenshots/project-detail.png)
+![Project Detail Page](./Screenshots/project details.png)
 
+### ❤️ Like Button
+
+![Like Button](./Screenshots/likes.png)
 ## 👩‍💻 Author
 
 **Sreelekha**
